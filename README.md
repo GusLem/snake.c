@@ -1,7 +1,7 @@
 # snake.c
 Snake game in C using ncurses
 
-##Instructions
+## Instructions
 
 Use **```sh build.sh```** to compile
 
