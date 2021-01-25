@@ -1,7 +1,7 @@
 # snake.c
 Snake game in C using ncurses
 
-![screenshot 1](./screencaps/0.png) ![screenshot 2](./screencaps/1.png)
+![screenshot 1](https://i.imgur.com/s8qDiNH.png) ![screenshot 2](https://i.imgur.com/wRKXrVt.png)
 
 ## Instructions
 
