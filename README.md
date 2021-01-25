@@ -7,6 +7,10 @@ Snake game in C using ncurses
 
 ## Instructions
 
+if you don't have ncurses, install it:
+
+**```sudo apt-get install ncurses-dev```**
+
 Use **```sh build.sh```** to compile
 
 And
