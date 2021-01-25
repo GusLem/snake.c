@@ -1,9 +1,7 @@
 # snake.c
 Snake game in C using ncurses
 
-![screenshot 1](./screencaps/0.png)
-
-![screenshot 2](./screencaps/1.png)
+![screenshot 1](./screencaps/0.png) ![screenshot 2](./screencaps/1.png)
 
 ## Instructions
 
