@@ -8,7 +8,7 @@ int main() {
     noecho();
     keypad(stdscr, TRUE);
     curs_set(0);
-    timeout(100);
+    timeout(150);
 
     //Creates Player
     Head head = {25,7};
